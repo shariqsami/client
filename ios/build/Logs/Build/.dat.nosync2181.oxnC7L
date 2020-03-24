@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>0DC6987D-C063-42EF-B4A2-41AFE87BA39C</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0DC6987D-C063-42EF-B4A2-41AFE87BA39C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Eatance project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Eatance</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace Eatance with scheme Eatance and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>574324883.80337596</real>
+			<key>timeStoppedRecording</key>
+			<real>574324892.87985206</real>
+			<key>title</key>
+			<string>Building workspace Eatance with scheme Eatance and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>0DC6987D-C063-42EF-B4A2-41AFE87BA39C</string>
+		</dict>
+		<key>DDB28192-7983-4DB7-9685-B0F447EC22F0</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DDB28192-7983-4DB7-9685-B0F447EC22F0.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Eatance project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Eatance</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace Eatance with scheme Eatance and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>574238585.27946699</real>
+			<key>timeStoppedRecording</key>
+			<real>574238607.64018595</real>
+			<key>title</key>
+			<string>Building workspace Eatance with scheme Eatance and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>DDB28192-7983-4DB7-9685-B0F447EC22F0</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

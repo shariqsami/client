@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>71587C3A-453C-470A-82F4-79CCBE5954A2</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>71587C3A-453C-470A-82F4-79CCBE5954A2.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Eatance project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Eatance</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace Eatance with scheme Eatance and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>588176353.63254404</real>
+			<key>timeStoppedRecording</key>
+			<real>588176359.16550303</real>
+			<key>title</key>
+			<string>Building workspace Eatance with scheme Eatance and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>71587C3A-453C-470A-82F4-79CCBE5954A2</string>
+		</dict>
+		<key>8A4AF0B0-1E60-4193-AC45-BCF570C8CDD6</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8A4AF0B0-1E60-4193-AC45-BCF570C8CDD6.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Eatance project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Eatance</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace Eatance with scheme Eatance and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>588228575.94695401</real>
+			<key>timeStoppedRecording</key>
+			<real>588228583.45299995</real>
+			<key>title</key>
+			<string>Building workspace Eatance with scheme Eatance and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>8A4AF0B0-1E60-4193-AC45-BCF570C8CDD6</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
